@@ -11,10 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: blackCipher
-  title: Black Cipher
+  id: brownCipher
+  title: Brown Cipher
   author: Sean Obach
-  description: https://github.com/obachs971/BlackCipher
+  description: https://github.com/obachs971/BrownCipher
   version: 1.0.0
   outputFolder: build
-  previewImage: {fileID: 2800000, guid: 16f58ec572b321046ba311240059c14a, type: 3}
+  previewImage: {fileID: 2800000, guid: c60985d97d7ab6042b30e6d7c6c93998, type: 3}

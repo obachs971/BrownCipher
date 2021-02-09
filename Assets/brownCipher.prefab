@@ -7737,6 +7737,49 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea11bbe7a74d1084f83fa929280563df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  screenTexts:
+  - {fileID: 102462753164942992}
+  - {fileID: 102877749425366960}
+  - {fileID: 102761209846046062}
+  Bomb: {fileID: 114653539609350150}
+  module: {fileID: 114927934800489210}
+  sounds:
+  - {fileID: 8300000, guid: 490fad95dcf9eae47a15ffbdab4ffb2a, type: 3}
+  - {fileID: 8300000, guid: cbe862916fe9ca9498269e32a9e788ed, type: 3}
+  - {fileID: 8300000, guid: 0db0b0dcf8f8ece4d9bc4d97e7e48e06, type: 3}
+  - {fileID: 8300000, guid: 6214b7f1beea13243a078497b6c977c9, type: 3}
+  Audio: {fileID: 114518167415135732}
+  submitText: {fileID: 102189746555444324}
+  leftArrow: {fileID: 114031886486060506}
+  rightArrow: {fileID: 114261648505115480}
+  submit: {fileID: 114348725742318740}
+  keyboard:
+  - {fileID: 114633800399417766}
+  - {fileID: 114929935723033198}
+  - {fileID: 114468231279331846}
+  - {fileID: 114569206481207460}
+  - {fileID: 114305637137570000}
+  - {fileID: 114937708056419022}
+  - {fileID: 114421644357136946}
+  - {fileID: 114955254500965766}
+  - {fileID: 114730464048090160}
+  - {fileID: 114957536095641972}
+  - {fileID: 114190818079871888}
+  - {fileID: 114309302632967126}
+  - {fileID: 114001170401052712}
+  - {fileID: 114086606108555666}
+  - {fileID: 114885218747038398}
+  - {fileID: 114642551030341900}
+  - {fileID: 114351079997849638}
+  - {fileID: 114137974072080554}
+  - {fileID: 114739968982353336}
+  - {fileID: 114803662413992210}
+  - {fileID: 114748667235528738}
+  - {fileID: 114652989525899524}
+  - {fileID: 114454777988731634}
+  - {fileID: 114987581975394390}
+  - {fileID: 114379177595310082}
+  - {fileID: 114043867033262500}
 --- !u!114 &114610415957749542
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -8377,8 +8420,8 @@ MonoBehaviour:
   m_Script: {fileID: -119419473, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ModuleType: blackCipher
-  ModuleDisplayName: Black Cipher
+  ModuleType: brownCipher
+  ModuleDisplayName: Brown Cipher
   RequiresTimerVisibility: 0
 --- !u!114 &114929935723033198
 MonoBehaviour:
